@@ -142,4 +142,3 @@ Prob(H) (two-sided):                  0.14   Kurtosis:                         4
 
 ## References:
 [Time series](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series)
-### Feedback
